@@ -1,1 +1,1 @@
-# yanba.githud.io
+# yanba.githud.com
